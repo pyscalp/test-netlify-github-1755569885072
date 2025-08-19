@@ -1,0 +1,9 @@
+<!-- public/images/hero-about.svg -->
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="400" fill="#EEF2FF"/>
+<path d="M100 100C100 50 150 50 150 100L150 300C150 350 100 350 100 300L100 100Z" fill="#0000FF" opacity="0.5"/>
+<path d="M200 150C200 100 250 100 250 150L250 300C250 350 200 350 200 300L200 150Z" fill="#4B0082" opacity="0.5"/>
+<path d="M300 200C300 150 350 150 350 200L350 300C350 350 300 350 300 300L300 200Z" fill="#800080" opacity="0.5"/>
+<circle cx="600" cy="200" r="80" fill="#0000FF" opacity="0.8"/>
+<path d="M600 160L640 200L600 240L560 200L600 160Z" fill="white"/>
+</svg>
