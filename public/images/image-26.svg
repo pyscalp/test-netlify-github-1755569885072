@@ -1,0 +1,6 @@
+<!-- public/images/product-2.svg -->
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#EEF2FF"/>
+<circle cx="100" cy="100" r="70" fill="#4B0082" opacity="0.8"/>
+<path d="M100 70L130 100L100 130L70 100L100 70Z" fill="white"/>
+</svg>
