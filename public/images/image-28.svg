@@ -1,0 +1,6 @@
+<!-- public/images/product-4.svg -->
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#EEF2FF"/>
+<rect x="30" y="30" width="140" height="140" rx="10" fill="#0000FF" opacity="0.8"/>
+<path d="M70 70L130 130M130 70L70 130" stroke="white" stroke-width="8" stroke-linecap="round"/>
+</svg>
