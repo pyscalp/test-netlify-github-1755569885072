@@ -1,0 +1,6 @@
+<!-- public/images/product-5.svg -->
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#EEF2FF"/>
+<path d="M100 20L180 100L100 180L20 100L100 20Z" fill="#4B0082" opacity="0.8"/>
+<path d="M100 50L150 100L100 150L50 100L100 50Z" fill="white"/>
+</svg>
